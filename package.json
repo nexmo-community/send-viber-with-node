@@ -1,0 +1,14 @@
+{
+  "name": "send-viber-with-node",
+  "version": "1.0.0",
+  "description": "Send a Viber message with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garann Means",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

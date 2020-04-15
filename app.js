@@ -27,9 +27,6 @@ axios.post('https://messages-sandbox.nexmo.com/v0.1/messages',{
       }
     }
   },{
-    headers: {
-      'Content-Type': 'application/json'
-    },
     auth: {
       username: user,
       password: password
